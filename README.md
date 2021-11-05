@@ -9,6 +9,7 @@ The purpose of the new analysis is well defined.
 There is a bulleted list with four major points from the two analysis deliverables.
 
 * Image of the ERD
+![PW-ERD](https://github.com/jp3tty/Pewlett-Hackard-Analysis/blob/main/Images/EmployeeDB.png)
 
 Include images from pgadmin4.
 
