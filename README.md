@@ -1,15 +1,18 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview
+Pewlett Hackard, a large company with thousands employees, needs to forecast the number of employees preparing for retirement and determine which positions to fill in the coming years. They use six .csv files to track their employee information and would like to combine want to use them to identify potential retirees, titles, department to prepare to backfill their positions. They are also planning to initiate a mentorship program for outgoing managers to train their replacements, once they retire.
+
+* Image of the ERD
+![PW-ERD](https://github.com/jp3tty/Pewlett-Hackard-Analysis/blob/main/Images/EmployeeDB.png)
+
+six csv files 
 
 The purpose of the new analysis is well defined.
 
 ## Results
 
 There is a bulleted list with four major points from the two analysis deliverables.
-
-* Image of the ERD
-![PW-ERD](https://github.com/jp3tty/Pewlett-Hackard-Analysis/blob/main/Images/EmployeeDB.png)
 
 Include images from pgadmin4.
 
