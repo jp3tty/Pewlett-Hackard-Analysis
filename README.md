@@ -18,16 +18,21 @@ Include images from pgadmin4.
 
 Deliverable 1
 * Image of the count of retiring per department.
+
 ![RetiringPerDept](https://github.com/jp3tty/Pewlett-Hackard-Analysis/blob/main/Images/RetiringPerDeptCount.PNG)
 
 * Image of the retirement_titles.csv
+
 ![RetiringTitles](https://github.com/jp3tty/Pewlett-Hackard-Analysis/blob/main/Images/RetiringTitleCount.PNG)
 
 * Image of the unique_titles.csv
+
 ![UniqueTitles](https://github.com/jp3tty/Pewlett-Hackard-Analysis/blob/main/Images/UniqueTitles.PNG)
 
 * Image of the retiring_titles.csv
+
 ![RetiringTitleCount](https://github.com/jp3tty/Pewlett-Hackard-Analysis/blob/main/Images/RetiringTitleCount.PNG)
+
 
 Deliverable 2
 * Image of mentorship_eligibility.csv
