@@ -1,9 +1,9 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview
-Pewlett Hackard, a large company with thousands employees, needs to forecast the number of employees preparing for retirement and determine which positions to fill in the coming years. They use six .csv files to track their employee information and would like to combine want to use them to identify potential retirees, titles, department to prepare to backfill their positions. They are also planning to initiate a mentorship program for outgoing managers to train their replacements before they retire.
+Pewlett Hackard, a large company with thousands of employees, is anticipating a wave of retirements from their long-term workforce and would like to identify the positions that will be vacated in the coming years. The company uses six .csv files to track their employee information and would like to combine these files to generate a list of retiree names, the retirees titles, and the department they're leaving in order to backfill their positions. Pewlett Hackard is also planning to initiate a mentorship program where the outgoing managers would train their potential replacements before they retire.
 
-The six .csv files Pewlett Hackard for employee tracking share common keys are their interralations can be seen in the entity relationship diagram below. 
+The six .csv files Pewlett Hackard utilizes for employee tracking share a few common keys. Their interralations can be seen in the diagram below. 
 
 ![PW-ERD](https://github.com/jp3tty/Pewlett-Hackard-Analysis/blob/main/Images/EmployeeDB.png)
 
