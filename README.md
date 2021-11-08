@@ -29,11 +29,8 @@ There is a bulleted list with four major points from the two analysis deliverabl
 
 
 Deliverable 1: The Number of Retiring Employees by Title
-* Image of the count of retiring per department.
 
-![RetiringPerDept](https://github.com/jp3tty/Pewlett-Hackard-Analysis/blob/main/Images/RetiringPerDeptCount.PNG)
-
-* Image of the retirement_titles.csv
+The analysis reveals a substantial number of potential retirees. The table below shows that Pewlett Hackard's Engineer and Staff departments will have tens of thousands of job openings in the near future. 
 
 ![RetiringTitles](https://github.com/jp3tty/Pewlett-Hackard-Analysis/blob/main/Images/RetiringTitleCount.PNG)
 
