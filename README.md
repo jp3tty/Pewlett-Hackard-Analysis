@@ -27,9 +27,8 @@ To help Pewlett Hackard with this analysis, SQL will be used to gather informati
 
 There is a bulleted list with four major points from the two analysis deliverables.
 
-Include images from pgadmin4.
 
-Deliverable 1
+Deliverable 1: The Number of Retiring Employees by Title
 * Image of the count of retiring per department.
 
 ![RetiringPerDept](https://github.com/jp3tty/Pewlett-Hackard-Analysis/blob/main/Images/RetiringPerDeptCount.PNG)
@@ -47,8 +46,10 @@ Deliverable 1
 ![RetiringTitleCount](https://github.com/jp3tty/Pewlett-Hackard-Analysis/blob/main/Images/RetiringTitleCount.PNG)
 
 
-Deliverable 2
+Deliverable 2: The Employees Eligible for the Mentorship Program
+
 * Image of mentorship_eligibility.csv
+
 ![MentorshipEligibility](https://github.com/jp3tty/Pewlett-Hackard-Analysis/blob/main/Images/MentorshipEligibility.PNG)
 
 * Count of potential employees eligible for mentorship
