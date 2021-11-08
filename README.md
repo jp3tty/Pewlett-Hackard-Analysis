@@ -41,4 +41,4 @@ To brace for the wave of retirements, Pewlett Hacker is intiating a mentorship p
 * A total of 89,269 Pewlett Hackard employees are of retirement-age. If the company wants to maintain its current employee level, it will need to do a lot of hiring.
 * Engineering make up 50.2% (44,831 of the 89,269) of the retiring employees.
 * 1549 employees (born in 1965) are eligible for mentorship.
-* Drawing from the count of retiring employees by title chart, there are at least 2 retirement-ready employess in each department available to mentor the next generation of Pewlett Hackard employees.
+* Drawing from the count of retiring employees by title chart, there are at least 2 retirement-ready employees in each department available to mentor the next generation of Pewlett Hackard employees.
