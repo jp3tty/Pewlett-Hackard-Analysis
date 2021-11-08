@@ -11,24 +11,25 @@ FROM employees AS e
 INNER JOIN titles AS t
 ON (e.emp_no=t.emp_no)
 WHERE (e.birth_date BETWEEN '1952-01-01' AND '1955-12-13')
-ORDER BY e.emp_no;
+ORDER BY e.emp_no ASC;
+
+SELECT * FROM retirement_titles;
 
 -- Use Dictinct with Orderby to remove duplicate rows
-SELECT DISTINCT ON (emp_no) emp_no,
-				   first_name,
-				   last_name,
-				   title
+SELECT DISTINCT ON (rt.emp_no) rt.emp_no,
+				   rt.first_name,
+				   rt.last_name,
+				   rt.title
 INTO unique_titles
-FROM retirement_titles
-ORDER BY emp_no, title DESC;
+FROM retirement_titles AS rt
+ORDER BY emp_no, to_date DESC;
 
 SELECT * FROM unique_titles
 
 -- Retrieve the number of employees from their most recent job title who are about to retire
-SELECT COUNT(urt.emp_no),
-urt.title
+SELECT COUNT(ut.emp_no), ut.title
 INTO retiring_titles
-FROM unique_titles AS urt
+FROM unique_titles AS ut
 GROUP BY title
 ORDER BY COUNT(title) DESC;
 
