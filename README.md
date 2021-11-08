@@ -30,16 +30,17 @@ Analysis reveals a substantial number of potential retirees. The table below sho
 
 ![RetiringTitles](https://github.com/jp3tty/Pewlett-Hackard-Analysis/blob/main/Images/RetiringTitleCount.PNG)
 
-To get 
+Employees born between January 1, 1952 and December 31, 1955 were considered "of retirement age." 
 
 ### Employees Eligible for the Mentorship Program
-To brace for the retirement wave, further analysis on Pewlett Hacker's employee files 
+To brace for the wave of retirements, Pewlett Hacker is intiating a mentorship program for employees to train for senior level positions. A list of 1549 employees have been identified as potential candidates. The list below show the first 10 individual on this list.
 
 ![MentorshipEligibility](https://github.com/jp3tty/Pewlett-Hackard-Analysis/blob/main/Images/MentorshipEligibility.PNG)
 
-* A total of 89,269 Pewlett Hackard employees are of retirement-age.
+* A total of 89,269 Pewlett Hackard employees are of retirement-age. 
 * Engineering make up 50.2% of the retiring employees.
-* There are 1549 employees eligible for mentorship.
+* 1549 employees (born in 1965) are eligible for mentorship.
+* 
 
 
 ## Summary
