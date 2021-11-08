@@ -24,23 +24,22 @@ The keys from these files are defined as follows:
 To help Pewlett Hackard with this analysis, SQL will be used to gather information from these files to determine who will be retiring in the near future and identify employees eligible for a manager mentorship program.
 
 ## Results
-### The Number of Retiring Employees by Title
+### Number of Retiring Employees by Title
 
 Analysis reveals a substantial number of potential retirees. The table below shows that Pewlett Hackard's Engineer and Staff departments will have tens of thousands of job openings in the near future. 
 
 ![RetiringTitles](https://github.com/jp3tty/Pewlett-Hackard-Analysis/blob/main/Images/RetiringTitleCount.PNG)
 
+To get 
 
-### The Employees Eligible for the Mentorship Program
-To brace for the retirement wave 
+### Employees Eligible for the Mentorship Program
+To brace for the retirement wave, further analysis on Pewlett Hacker's employee files 
 
 ![MentorshipEligibility](https://github.com/jp3tty/Pewlett-Hackard-Analysis/blob/main/Images/MentorshipEligibility.PNG)
 
-There is a bulleted list with four major points from the two analysis deliverables.
-
-
-* Count of potential employees eligible for mentorship
-There are 1549 employees eligible for mentorship.
+* A total of 89,269 Pewlett Hackard employees are of retirement-age.
+* Engineering make up 50.2% of the retiring employees.
+* There are 1549 employees eligible for mentorship.
 
 
 ## Summary
