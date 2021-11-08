@@ -7,7 +7,7 @@ The six .csv files Pewlett Hackard utilizes for employee tracking share a few co
 
 ![PW-ERD](https://github.com/jp3tty/Pewlett-Hackard-Analysis/blob/main/Images/EmployeeDB.png)
 
-The keys from these files are defined as follows:
+The keys from these table are defined as such:
 * dept_no: Department number
 * dept_name: Department name
 * emp_no: Employee number
@@ -21,7 +21,7 @@ The keys from these files are defined as follows:
 * to_date: Date ending in role
 * title: Title
 
-To help Pewlett Hackard with this analysis, SQL will be used to gather information from these files to determine who will be retiring in the near future and identify employees eligible for a manager mentorship program.
+SQL will be used to help Pewlett Hackard with this analysis. Information from each table will be gathered to determine who is retiring and a list of current employees will be generate for a mentorship program (back-filling the retirees positions).
 
 ## Results
 ### Number of Retiring Employees by Title
@@ -30,7 +30,7 @@ Analysis reveals a substantial number of potential retirees. The table below sho
 
 ![RetiringTitles](https://github.com/jp3tty/Pewlett-Hackard-Analysis/blob/main/Images/RetiringTitleCount.PNG)
 
-Employees born between January 1, 1952 and December 31, 1955 were considered "of retirement age." 
+Employees born between January 1, 1952 and December 31, 1955 were considered "retirement age" and only an individuals current title was used for this list.
 
 ### Employees Eligible for the Mentorship Program
 To brace for the wave of retirements, Pewlett Hacker is intiating a mentorship program for employees to train for senior level positions. A list of 1549 employees have been identified as potential candidates. The list below show the first 10 individual on this list.
