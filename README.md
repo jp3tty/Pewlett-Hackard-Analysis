@@ -7,7 +7,7 @@ The six .csv files Pewlett Hackard utilizes for employee tracking share a few co
 
 ![PW-ERD](https://github.com/jp3tty/Pewlett-Hackard-Analysis/blob/main/Images/EmployeeDB.png)
 
-The keys from these files are:
+The keys from these files are defined as follows:
 * dept_no: Department number
 * dept_name: Department name
 * emp_no: Employee number
@@ -21,7 +21,7 @@ The keys from these files are:
 * to_date: Date ending in role
 * title: Title
 
-To help Pewlett Hackard with these files, analysis will be conducted with SQL to gather information from these files to determine who will be retiring in the near future and identify employees eligible for a manager mentorship program.
+To help Pewlett Hackard with this analysis, SQL will be used to gather information from these files to determine who will be retiring in the near future and identify employees eligible for a manager mentorship program.
 
 ## Results
 
