@@ -33,7 +33,7 @@ Analysis reveals a substantial number of potential retirees. The table below sho
 Employees born between January 1, 1952 and December 31, 1955 were considered "retirement age" and only an individual's current title was used for this list.
 
 ### Employees Eligible for the Mentorship Program
-To brace for the wave of retirements, Pewlett Hacker is intiating a mentorship program for employees (offered to individuals born in 1965) to train into senior level positions. A total of 1549 employees have been identified as potential candidates. The list below show the first 10 individual who qualify.
+To brace for the wave of retirements, Pewlett Hacker is intiating a mentorship program for employees (offered to individuals born in 1965) to train into senior level positions. A total of 1549 employees have been identified as potential candidates. The list below show the first 10 individuals who qualify.
 
 ![MentorshipEligibility](https://github.com/jp3tty/Pewlett-Hackard-Analysis/blob/main/Images/MentorshipEligibility.PNG)
 
